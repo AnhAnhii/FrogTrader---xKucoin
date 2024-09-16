@@ -21,7 +21,7 @@ Click the following url to register : [XKucoin Bot](https://t.me/xkucoinbot/kuco
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/BlackDragonHacker/XKucoin.git](https://github.com/AnhAnhii/FrogTrader---xKucoin.git
+   git clone https://github.com/AnhAnhii/FrogTrader---xKucoin.git
    ```
 
 3. goto XKucoin directory
